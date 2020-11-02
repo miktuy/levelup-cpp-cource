@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/hw1/task1/.vs/task1/v16
+/hw1/task1/Debug
